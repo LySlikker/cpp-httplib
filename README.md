@@ -1,6 +1,5 @@
 # cpp-httplib
-The Only C++ Web Server Repo you'll need! Comes with client librabry
-A C++11 single-file header-only cross platform HTTP/HTTPS library.
+The Only C++ Web Server Repo you'll need! Comes with client library.
 
 It's extremely easy to setup. Just include the **httplib.h** file in your code!
 
